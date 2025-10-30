@@ -10,7 +10,7 @@ Original file is located at
 import pandas as pd
 import numpy as np
 
-df_starbucks = pd.read_excel('/content/Worksheet in Deploying ML Models on Streamlit.xlsx')
+//df_starbucks = pd.read_excel('/content/Worksheet in Deploying ML Models on Streamlit.xlsx')
 
 df_starbucks.shape
 
